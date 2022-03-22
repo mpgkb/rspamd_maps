@@ -1,0 +1,107 @@
+/^[\w.]+\@info\.topdelivery\.net\.pl$/i
+/^[\w.]+\@e\-bmp\.pl$/i
+/^[\w]*\@(?:administracjapubliczna|przetargipubliczne|finansepubliczne|inwestycjesp|informacjapubliczna)\.info$/i
+/^[\w].+\@specializable\.pl$/i
+/^[\w]+\@(edukacja|zapisy)(-online|on-line)\.(com\.pl|pl)$/i
+/^[\w-].+\@griniar\.pl$/i
+/^[\w].+\@a-ppk\.pl$/i
+/^[\w].+\@dzial\-finansowy\.com$/i
+/^[\w].+\@toprogress\.pl$/i
+/^[\w].+\@yourindustry\.pl$/i
+/^[\w].+\@tradedraft\.com\.pl$/i
+/^[\w].+\@(news.)*(biurowe|send)360\.pl$/i
+#emerson
+/^[\w=-].+\@emerson\.com$/i
+/^[\w]+\@praktyczne\-szkolenia\.pl$/i
+#mentor
+/^[\w-]+\@[\w.]*mentorszkoli\.pl$/i
+#itc
+/^[\w].+\@itc\-poland\.pl$/i
+#enewsletter
+/[\w=-].+\@.\.enewsletter\.com\.pl$/i
+/^[\w=-].+\@irp\.bielsko\.pl$/i
+/^[\w=-].+\@[\w].*wizytowkii\.pl$/i
+/^[\w=-].+\@projektfinansowania[\w.]*\.pl$/i
+#ibiznes
+/^[\w=-].+\@[\w.]*\.ibiznes\.info\.pl$/i
+#pl biznes
+/^[\w]+\@pl\-biznes\.eu$/i
+#b2bmail
+/^[\w=-].+\@b2bmail\.com\.pl$/i
+#owal
+/^[\w.]+\@owal[\w]*\.edu\.pl$/i
+#emaillabs
+/^[\w.]+\@[\w].*emaillabs\.net\.pl$/i
+
+#/^[\w-]+\@[\w.]*news\.wip\.pl$/i
+#/^[\w-]+\@[\w.]*elamed-news\.pl$/i
+/^[\w-].+\@[\w.]*mailing\.salelifter\.com$/i
+/^[\w-].+\@[\w.]*mail\-source\.pl$/i
+#znakomita niecodzienna specjalna oferta
+/^[\w=-].+\@[\w].*(?:znakomita|specjalna|niecodzienna)\-oferta\.pl$/iu
+#marketplanet
+/^[\w-].+\@marketplanet\.pl$/iu
+#AIB
+/^[\w-].+\@(?:training|centrum)\-aib\.(com\.)*pl$/iu
+/^[\w-].+\@aib(?:training|courses|traingandcourses|online)\.pl$/i
+#infos edu pl
+/^[\w-].+\@infos\.edu\.pl$/iu
+#4edu
+/^[\w-].+\@[\d]edu(?:\.|\-)(?:info|mail|szkolenia)\.pl$/iu
+#li fr
+/^[\w]+@yellows\-pager\.fr$/i
+/^[\w]+\@tascania\-grill\.li$/i
+
+/^[\w=-].+\@kolba\.pl$/i
+
+#news send
+/^[\w=-].+\@news\.send24\.pl$/iu
+#z.wydaw
+/^[\w=-].+\@z\.wydaw\.pl$/iu
+#grid
+/^[\w=-].+\@(?:emlgrid|smgrid|emsgrid)\.(?:pl|com)$/i
+#freshmail
+/^[\w=-].+\@[\w]+\.freshmail\.(?:direct|mx)$/iu
+#amazonses
+#/^[\w=-].+\@eu[\w-]+\.amazonses\.com$/iu
+#server nazwa
+/^(?:grupa|kadry|refkadr)[\d]*\@server[\d]+\.nazwa\.pl$/iu
+#hubspote
+/^[\w=-].+\@[\w].*hubspotemail\.net$/iu
+#biznes linia
+/^[\w]+\@biznes\-linia\.pl$/iu
+#seneka
+/^[\w-].+\@[\w-]*seneka[\w-]*\.pl$/iu
+#/^[\w-].+\@senekaszkolenia\.pl$/iu
+#parkcity
+/^[\w=-].+\@parkcity\.free\.hr$/iu
+#bounce ale nie clickmeeting
+/^[\w=-].+\@bounce\.[\w-].+(?<!clickmeeting)\.(?:com|pl)$/iu
+#optimal smart
+/^[\w]+\@optimal\-smart\.pl$/iu
+#service expert
+/^[\w=-].+\@[\w]+\.service\-expert\.net$/iu
+#platforma edukacyjna
+/^[\w=-].+\@mailing\.platformaedukacyjna\.eu$/iu
+#rsgsv
+/^[\w=-].+\@[\w].+\.rsgsv\.net$/iu
+#plusinfo
+/^[\w=-].+\@[\w].*plusinfo\.pl$/iu
+#euro training
+/^[\w=-].+\@euro\-training\.(info|pl)$/i
+#zcmail
+/^[\w=-].+\@[\w].+\.zcmail\.net$/iu
+#ofe
+/^kontakt\@ofe[\d]+\.pl$/iu
+#acc
+/^[\w=-].+\@acc\.net\.pl$/iu
+#attmail
+/^[\w=-].+(?<!km-tech\.eu=serwis)\@attmail\.pl$/iu
+#biznes finanse
+/^[\w]+\@biznes\-finanse\-24\.pl$/i
+
+/^[\w]+\@[\w]+\.tenmlne\.pl$/i
+/^[\w].+\@mail\.to\-sie\-oplaca\.pl$/i
+/^[\w=-]+\@bounce\.ecomailapp\.cz$/i
+#cpi
+/^(?:info|konferencja|contactcenter)\@(cpi-)*(cpi|sk|seminaria|szkolenia)(-cpi)*\.(?:waw|info)\.pl$/i
