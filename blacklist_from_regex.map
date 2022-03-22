@@ -76,7 +76,7 @@
 #parkcity
 /^[\w=-].+\@parkcity\.free\.hr$/iu
 #bounce ale nie clickmeeting
-/^[\w=-].+\@bounce\.[\w-].+(?<!clickmeeting)\.(?:com|pl)$/iu
+#/^[\w=-].+\@bounce\.[\w-].+(?<!clickmeeting)\.(?:com|pl)$/iu
 #optimal smart
 /^[\w]+\@optimal\-smart\.pl$/iu
 #service expert
