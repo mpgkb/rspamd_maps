@@ -1,3 +1,4 @@
+/^[\w.]+\@speedomat\.net\.pl$/i
 /^[\w.]+\@oku\.com\.pl$/i
 /^[\w.]+\@info\.topdelivery\.net\.pl$/i
 /^[\w.]+\@e\-bmp\.pl$/i
