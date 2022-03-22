@@ -48,7 +48,7 @@
 /^[\w-].+\@marketplanet\.pl$/iu
 #AIB
 /^[\w-].+\@(?:training|centrum)\-aib\.(com\.)*pl$/iu
-/^[\w-].+\@aib(?:training|courses|traingandcourses|online)\.pl$/i
+/^[\w-].+\@(aib|aib\-)(?:training|courses|traingandcourses|online|grupa)\.pl$/i
 #infos edu pl
 /^[\w-].+\@infos\.edu\.pl$/iu
 #4edu
