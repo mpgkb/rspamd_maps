@@ -1,3 +1,2 @@
 # rspamd_maps
-Rspamd maps
-Spamlisty do rspamd
+Spam listy pierdolonych spamerskich skurwysynów
