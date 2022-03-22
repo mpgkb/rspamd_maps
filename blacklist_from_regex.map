@@ -1,3 +1,5 @@
+/^[\w.]+\@crf\.pl$/i
+/^[\w.]+\@jstedu\.pl$/i
 /^[\w.]+\@speedomat\.net\.pl$/i
 /^[\w.]+\@oku\.com\.pl$/i
 /^[\w.]+\@info\.topdelivery\.net\.pl$/i
