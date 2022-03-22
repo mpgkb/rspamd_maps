@@ -1,3 +1,4 @@
+/^[\w.]+\@oku\.com\.pl$/i
 /^[\w.]+\@info\.topdelivery\.net\.pl$/i
 /^[\w.]+\@e\-bmp\.pl$/i
 /^[\w]*\@(?:administracjapubliczna|przetargipubliczne|finansepubliczne|inwestycjesp|informacjapubliczna)\.info$/i
