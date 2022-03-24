@@ -105,7 +105,7 @@
 #acc
 /^[\w=-].+\@acc\.net\.pl$/iu
 #attmail
-/^[\w=-].+(?<!km-tech\.eu=serwis)\@attmail\.pl$/iu
+#/^[\w=-].+(?<!km-tech\.eu=serwis)\@attmail\.pl$/iu
 #biznes finanse
 /^[\w]+\@biznes\-finanse\-24\.pl$/i
 
