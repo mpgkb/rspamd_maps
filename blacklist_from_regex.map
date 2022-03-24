@@ -1,3 +1,4 @@
+/^[\w]+|@liderwiedzy\.eu$/i
 /^[\w]+\@operate\-corporate\.eu$/i
 /^[\w]+\@eu\-finanse\.net\.pl$/i
 /^[\w]+\@infiniteadvisors\.pl$/i
