@@ -1,3 +1,4 @@
+/^[\w]+\@infiniteadvisors\.pl$/i
 /^[\w.]+\@noweprzetargi[\d]*\.pl$/i
 /^[\w.]+\@crf\.pl$/i
 /^[\w.]+\@jstedu\.pl$/i
