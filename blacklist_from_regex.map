@@ -68,7 +68,7 @@
 #grid
 /^[\w=-].+\@(?:emlgrid|smgrid|emsgrid)\.(?:pl|com)$/i
 #freshmail
-/^[\w=-].+\@[\w]+\.freshmail\.(?:direct|mx)$/iu
+/^[\w=-].+\@[\w]+\.freshmail\.(?:direct|mx|zone)$/i
 #amazonses
 #/^[\w=-].+\@eu[\w-]+\.amazonses\.com$/iu
 #server nazwa
