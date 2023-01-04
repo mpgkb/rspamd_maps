@@ -4,7 +4,7 @@
 /^[\w]+\@moda\d{4}\.pl$/i
 /^[\w]+\@codziennikpolski\.pl$/i
 /^[\w\-\.]+\@[\w]\.mailsare\.com$/i
-/^[\w]+\@[\w.-]+\.ru$/i
+/^[\w]+\@[\w\.\-]+\.ru$/i
 /^[\w]+\@fmail\.highmetop\.com$/i
 /^[\w\.]+\@crennenrealty\.com$/i
 /^[\w]+\@apollotruckrepair\.com$/i
@@ -27,7 +27,7 @@
 /^[\w]+\@isp-krakow\.pl$/i
 /^[\w]+\@atrainer\.pl$/i
 /^[\w\.]+\@bizfirmfuse\.pl$/i
-/^[\w]+\@[\w].+brillen\.pl$/i
+/^[\w]+\@[\w\.]+brillen\.pl$/i
 /^[\w]+\@loveambie\.com$/i
 /^[\w]+\@bomis\.eu$/i
 /^[\w]+\@cbepolska\.pl$/i
@@ -104,20 +104,20 @@
 /^[\w\.]+\@itc\-poland\.pl$/i
 /^[\w\=\-\.]+\@.\.enewsletter\.com\.pl$/i
 /^[\w\=\-\.]+\@irp\.bielsko\.pl$/i
-/^[\w\=\-\.]+\@[\w].*wizytowkii\.pl$/i
-/^[\w\=\-\.]+\@projektfinansowania[\w.]*\.pl$/i
-/^[\w\=\-\.]+\@[\w.]*\.ibiznes\.info\.pl$/i
+/^[\w\=\-\.]+\@[\w\.]*wizytowkii\.pl$/i
+/^[\w\=\-\.]+\@projektfinansowania[\w\.]*\.pl$/i
+/^[\w\=\-\.]+\@[\w\.]*\.ibiznes\.info\.pl$/i
 /^[\w]+\@pl\-biznes\.eu$/i
 /^[\w\=\-\.]+\@(b2bmail|wspolpracab2b)\.com\.pl$/i
 /^[\w]+\@strategie\-b2b\.pl$/i
 /^[\w]+\@sem-dlab2b\.pl$/i
 /^[\w\.]+\@owal[\w]*\.edu\.pl$/i
 /^[\w\.]+\@[\w\.]*emaillabs\.net\.pl$/i
-#/^[\w\-]+\@[\w.]*news\.wip\.pl$/i
-#/^[\w\-]+\@[\w.]*elamed-news\.pl$/i
-/^[\w\-\.]+\@[\w.]*mailing\.salelifter\.com$/i
-/^[\w\-\.]+\@[\w.]*mail\-source\.pl$/i
-/^[\w\=\-\.]+\@[\w].*(?:znakomita|specjalna|niecodzienna)\-oferta\.pl$/iu
+#/^[\w\-]+\@[\w\.]*news\.wip\.pl$/i
+#/^[\w\-]+\@[\w\.]*elamed-news\.pl$/i
+/^[\w\-\.]+\@[\w\.]*mailing\.salelifter\.com$/i
+/^[\w\-\.]+\@[\w\.]*mail\-source\.pl$/i
+/^[\w\=\-\.]+\@[\w\.]*(?:znakomita|specjalna|niecodzienna)\-oferta\.pl$/iu
 /^[\w\-\.]+\@(?:training|centrum)\-aib\.(com\.)*pl$/iu
 /^[\w\-\.]+\@(aib|aib\-)*(training|courses|traingandcourses|online|grupa|edukacja|group)\.pl$/i
 /^[\w\-\.]+\@(infos|konsult)\.edu\.pl$/i
@@ -129,15 +129,15 @@
 /^[\w\=\-\.]+\@z\.wydaw\.pl$/iu
 /^[\w\=\-\.]+\@(?:emlgrid|smgrid|emsgrid)\.(?:pl|com)$/i
 /^[\w\=\-\.]+\@[\w]+\.freshmail\.(?:direct|mx)$/iu
-#/^[\w\=\-\.]+\@eu[\w-]+\.amazonses\.com$/iu
+#/^[\w\=\-\.]+\@eu[\w\-]+\.amazonses\.com$/iu
 /^(?:grupa|kadry|refkadr|organizacyjny)[\d]*\@server[\d]+\.nazwa\.pl$/i
-/^[\w\=\-\.]+\@[\w].*hubspotemail\.net$/iu
+/^[\w\=\-\.]+\@[\w\.]*hubspotemail\.net$/iu
 /^[\w]+\@biznes\-linia\.pl$/iu
-/^[\w\-\.]+\@[\w-]*seneka[\w-]*\.pl$/iu
+/^[\w\-\.]+\@[\w\-]*seneka[\w\-]*\.pl$/iu
 #/^[\w\-\.]+\@senekaszkolenia\.pl$/iu
 /^[\w\=\-\.]+\@parkcity\.free\.hr$/iu
 #bounce ale nie clickmeeting
-/^[\w\=\-\.]+\@bounce\.[\w-].+(?<!clickmeeting)\.(?:com|pl)$/iu
+/^[\w\=\-\.]+\@bounce\.[\w\-\.]+(?<!clickmeeting)\.(?:com|pl)$/iu
 #optimal smart
 /^[\w]+\@optimal\-smart\.pl$/iu
 #service expert
@@ -145,13 +145,13 @@
 #platforma edukacyjna
 /^[\w\=\-\.]+\@(mailing\.)*platformaedukacyjna\.eu$/i
 #rsgsv
-/^[\w\=\-\.]+\@[\w].+\.rsgsv\.net$/iu
+/^[\w\=\-\.]+\@[\w\.]+\.rsgsv\.net$/iu
 #plusinfo
-/^[\w\=\-\.]+\@[\w].*plusinfo\.pl$/iu
+/^[\w\=\-\.]+\@[\w\.]*plusinfo\.pl$/iu
 #euro training
 /^[\w\=\-\.]+\@euro\-training\.(info|pl)$/i
 #zcmail
-/^[\w\=\-\.]+\@[\w].+\.zcmail\.net$/iu
+/^[\w\=\-\.]+\@[\w\.]+\.zcmail\.net$/iu
 #ofe
 /^kontakt\@ofe[\d]+\.pl$/iu
 #acc
