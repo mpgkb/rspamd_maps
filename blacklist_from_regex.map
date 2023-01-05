@@ -1,3 +1,4 @@
+/^[\w]+\@fignews\.pl$/i
 /^[\w\.]+\@frdl\-podlaskie\.pl$/i
 /^[\w\-\.]+\@consultingmsp\.pl$/i
 /^[\w]+\@seopioneer\.pl$/i
