@@ -1,6 +1,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w]+\@administrator24\.info$/i
 /^[\w]+\@pozycjatop1\.pl$/i
 /^[\w]+\@eu\-serwis\.pl$/i
 /^(zwroty|kontakt)\@pozytywnydzien\.pl$/i
