@@ -1,3 +1,4 @@
+/^(zwroty|kontakt)\@pozytywnydzien\.pl$/i
 /^[\w]+\@doradztwo\-sme\.pl$/i
 /^[\w]+\@fignews\.pl$/i
 /^[\w\.]+\@frdl\-podlaskie\.pl$/i
