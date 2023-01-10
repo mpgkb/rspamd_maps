@@ -1,3 +1,6 @@
+#chińskie gówno
+/^[\w]+\@[\w]+\.cn$/i
+
 /^[\w]+\@pozycjatop1\.pl$/i
 /^[\w]+\@eu\-serwis\.pl$/i
 /^(zwroty|kontakt)\@pozytywnydzien\.pl$/i
