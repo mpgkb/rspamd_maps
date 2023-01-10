@@ -1,3 +1,4 @@
+/^[\w]+\@eu\-serwis\.pl$/i
 /^(zwroty|kontakt)\@pozytywnydzien\.pl$/i
 /^[\w]+\@doradztwo\-sme\.pl$/i
 /^[\w]+\@fignews\.pl$/i
