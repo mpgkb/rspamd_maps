@@ -1,3 +1,4 @@
+/^[\w]+\@pozycjatop1\.pl$/i
 /^[\w]+\@eu\-serwis\.pl$/i
 /^(zwroty|kontakt)\@pozytywnydzien\.pl$/i
 /^[\w]+\@doradztwo\-sme\.pl$/i
