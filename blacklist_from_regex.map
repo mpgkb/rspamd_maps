@@ -12,7 +12,7 @@
 /^[\w]+\@seopioneer\.pl$/i
 /^[\w]+\@moda\d{4}\.pl$/i
 /^[\w]+\@codziennikpolski\.pl$/i
-/^[\w\-\.]+\@[\w]\.mailsare\.com$/i
+/^[\w\=\-\.]+\@[\w]\.mailsare\.com$/i
 /^[\w]+\@[\w\.\-]+\.ru$/i
 /^[\w]+\@fmail\.highmetop\.com$/i
 /^[\w\.]+\@crennenrealty\.com$/i
