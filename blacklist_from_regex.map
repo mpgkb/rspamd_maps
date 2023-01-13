@@ -1,3 +1,6 @@
+# chuje z hawle.pl
+/^[\w\-]+\@bouncing\.hawle\.pl$/i
+
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
