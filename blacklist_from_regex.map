@@ -1,3 +1,6 @@
+# nich spierdalają
+/^[\w\-]+\@plfirmy\.pl$/i
+
 # chuje z hawle.pl
 /^[\w\-]+\@bouncing\.hawle\.pl$/i
 
