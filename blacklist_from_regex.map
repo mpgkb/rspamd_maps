@@ -4,6 +4,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w\-]+\@pozyczkaobrotowa\.pl$/i
 /^[\w]+\@administrator24\.info$/i
 /^[\w]+\@pozycjatop1\.pl$/i
 /^[\w]+\@eu\-serwis\.pl$/i
