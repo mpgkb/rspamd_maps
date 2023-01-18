@@ -10,6 +10,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w\.]+\@szkoleniawec\.eu$/i
 /^[\w\-\.]+\@nu\.onedyn\.pl$/i
 /^[\w\-\.]+\@unima2000\.pl$/i
 /^[\w\-]+\@pozyczkaobrotowa\.pl$/i
