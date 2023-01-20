@@ -11,6 +11,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w\-]+\@krainaofert\.pl$/i
 /^[\w\.]+\@transakcje\-finansowania\.pl$/i
 /^[\w\.]+\@prosperity\-consulting\.pl$/i
 /^[\w\.]+\@szkoleniawec\.eu$/i
