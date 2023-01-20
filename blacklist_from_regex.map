@@ -1,5 +1,6 @@
 # szmaty
 /^[\w\-]+\@kompleksowe\-finansowanie\.pl$/i
+/^[\w\-]+\@centrumfinansowania\-firm\.pl$/i
 
 # nich spierdalają
 /^[\w\-]+\@plfirmy\.pl$/i
