@@ -1,5 +1,5 @@
 # szmaty
-/^[\w\-]+\@kompleksowe\-finansowanie\.pl$/i
+/^[\w\-\.]+\@(finansowanie|transakcje|prosperity|kompleksowe)\-(dluzne|finansowania|consulting|finansowanie)\.(com\.pl|pl)$/i
 /^[\w\-]+\@centrumfinansowania\-firm\.pl$/i
 
 # nich spierdalają
@@ -12,8 +12,6 @@
 /^[\w]+\@[\w]+\.cn$/i
 
 /^[\w\-]+\@krainaofert\.pl$/i
-/^[\w\.]+\@transakcje\-finansowania\.pl$/i
-/^[\w\.]+\@prosperity\-consulting\.pl$/i
 /^[\w\.]+\@szkoleniawec\.eu$/i
 /^[\w\-\.]+\@nu\.onedyn\.pl$/i
 /^[\w\-\.]+\@unima2000\.pl$/i
