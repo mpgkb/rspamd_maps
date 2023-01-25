@@ -11,6 +11,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w]+\@industrialcompany\.pl$/i
 /^[\w]+\@boolkins\.be$/i
 /^[\w\-]+\@krainaofert\.pl$/i
 /^[\w\.]+\@szkoleniawec\.eu$/i
