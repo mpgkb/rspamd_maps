@@ -27,7 +27,7 @@
 /^[\w]+\@doradztwo\-sme\.pl$/i
 /^[\w]+\@fignews\.pl$/i
 /^[\w\.]+\@frdl\-podlaskie\.pl$/i
-/^[\w\-\.]+\@(consulting|doradztwo\-)msp\.pl$/i
+/^[\w\-\.]+\@(consulting|doradztwo\-|linia\-)msp\.(com\.pl|pl)$/i
 /^[\w]+\@seopioneer\.pl$/i
 /^[\w]+\@moda\d{4}\.pl$/i
 /^[\w]+\@codziennikpolski\.pl$/i
