@@ -1,5 +1,6 @@
 # szmaty
 /^[\w\-\.]+\@(finansowanie|transakcje|prosperity|kompleksowe|wsparcie|doradztwo)\-(dluzne|finansowania|consulting|finansowanie|firm|dlafirm)\.(com\.pl|pl)$/i
+/^[\w\-\.]+\@(malinowska)\-(doradztwo)\.(com\.pl|pl)$/i
 /^[\w\-]+\@centrumfinansowania\-firm\.pl$/i
 
 # nich spierdalają
