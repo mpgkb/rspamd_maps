@@ -1,3 +1,6 @@
+# ***** *
+/^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
+
 # szmaty
 /^[\w\-\.]+\@(finansowanie|transakcje|prosperity|kompleksowe|wsparcie|doradztwo)\-(dluzne|finansowania|consulting|finansowanie|firm|dlafirm)\.(com\.pl|pl)$/i
 /^[\w\-\.]+\@(malinowska)\-(doradztwo)\.(com\.pl|pl)$/i
