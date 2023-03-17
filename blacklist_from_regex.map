@@ -15,6 +15,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w\-]*\@droiders\.com$/i
 /^[\w\-]+\@finstalles\.free\.hr$/i
 /^[\w\.]+\@segemar\.gov\.ar$/i
 /^[\w]+\@adsmaniac\.pl$/i
