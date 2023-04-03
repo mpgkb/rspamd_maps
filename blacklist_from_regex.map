@@ -165,7 +165,7 @@
 /^[\w\=\-\.]+\@(?:emlgrid|smgrid|emsgrid)\.(?:pl|com)$/i
 /^[\w\=\-\.]+\@[\w]+\.freshmail\.(?:direct|mx)$/iu
 #/^[\w\=\-\.]+\@eu[\w\-]+\.amazonses\.com$/iu
-/^(?:grupa|kadry|refkadr|organizacyjny)[\d]*\@server[\d]+\.nazwa\.pl$/i
+/^(?:grupa|kadry|refkadr|organizacyjny|kadrowy)[\d]*\@server[\d]+\.nazwa\.pl$/i
 /^[\w\=\-\.]+\@[\w\.]*hubspotemail\.net$/iu
 /^[\w]+\@biznes\-linia\.pl$/iu
 /^[\w\-\.]+\@[\w\-]*seneka[\w\-]*\.pl$/iu
