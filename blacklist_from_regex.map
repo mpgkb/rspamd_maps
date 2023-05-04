@@ -15,6 +15,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w]+\@delancer\.makeup$/i
 /^[\w]+\@nistalle\.gb\.net$/i
 /^[\w\-]*\@droiders\.com$/i
 /^[\w\-]+\@finstalles\.free\.hr$/i
