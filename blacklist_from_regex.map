@@ -1,6 +1,9 @@
 # ***** *
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# edukoncept
+/^[\w\-\.]+\@edukoncept\.org$/i
+
 # szmaty
 /^[\w\-\.]+\@(finansowanie|transakcje|prosperity|kompleksowe|wsparcie|doradztwo)\-(dluzne|finansowania|consulting|finansowanie|firm|dlafirm)\.(com\.pl|pl)$/i
 /^[\w\-\.]+\@(malinowska|strefa)\-(doradztwo|prawa)\.(com\.pl|pl)$/i
