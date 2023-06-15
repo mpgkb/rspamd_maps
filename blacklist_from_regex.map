@@ -19,6 +19,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
+/^[\w\.\-]+@cckonsulting.pl$/i
 /^[\w]+\@delancer\.makeup$/i
 /^[\w]+\@nistalle\.gb\.net$/i
 /^[\w\-]*\@droiders\.com$/i
