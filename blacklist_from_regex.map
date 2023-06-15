@@ -19,7 +19,7 @@
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
 
-/^[\w\.\-]+@cckonsulting.pl$/i
+/^[\w\.\-]+@cckonsulting\.pl$/i
 /^[\w]+\@delancer\.makeup$/i
 /^[\w]+\@nistalle\.gb\.net$/i
 /^[\w\-]*\@droiders\.com$/i
@@ -204,6 +204,7 @@
 /^[\w]+\@[\w]+\.tenmlne\.pl$/i
 /^[\w\.]+\@mail\.to\-sie\-oplaca\.pl$/i
 /^[\w\=\-\.]+\@bounce\.ecomailapp\.cz$/i
+/^[\w\=\-\.]+\@vistall\.hz\.cz$/i
 #cpi
 /^(?:info|konferencja|contactcenter)\@(cpi-)*(cpi|sk|seminaria|szkolenia)(-cpi)*\.(?:waw|info)\.pl$/i
 
