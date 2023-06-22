@@ -18,8 +18,9 @@
 
 #chińskie gówno
 /^[\w]+\@[\w]+\.cn$/i
-
+#mohito
 /^[\w\=\-]+\@([\w]\.)*message\.mohito\.com$/i
+
 /^[\w\.\-]+\@beastslogos\.pl$/i
 /^[\w\.\-]+\@gruinard\.pl$/i
 /^[\w\.]+\@artskigs\.pl$/i
