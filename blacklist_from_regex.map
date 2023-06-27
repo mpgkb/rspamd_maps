@@ -182,9 +182,10 @@
 /^[\w\-\.]+\@[\w\-]*seneka[\w\-]*\.pl$/iu
 #/^[\w\-\.]+\@senekaszkolenia\.pl$/iu
 /^[\w\=\-\.]+\@parkcity\.free\.hr$/iu
-#bounce ale nie clickmeeting
+#bounce
 #/^[\w\=\-\.]+\@bounce\.[\w\-\.]+(?<!clickmeeting)\.(?:com|pl)$/iu
 #/^([\w\=\-\.]+\@bounce\.){1}([\w\-\.]+)*([^clickmeeting])\.(com|pl)$/i
+/^[\w\=\-\.]+\@bounce\.([\w\-\.]+)*\.(com|pl)$/i
 #optimal smart
 /^[\w]+\@optimal\-smart\.pl$/iu
 #service expert
