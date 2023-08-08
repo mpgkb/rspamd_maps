@@ -21,6 +21,7 @@
 #mohito
 /^[\w\=\-]+\@([\w]\.)*message\.mohito\.com$/i
 
+/^[\w]+\@von4grid\.dynuddns\.com$/i
 /^[\w]+\@terazmodne\.pl$/i
 /^[\w\.\-]+\@beastslogos\.pl$/i
 /^[\w\.\-]+\@gruinard\.pl$/i
