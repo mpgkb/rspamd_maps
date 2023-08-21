@@ -21,6 +21,9 @@
 #mohito
 /^[\w\=\-]+\@([\w]\.)*message\.mohito\.com$/i
 
+#jebani hitlerowcy
+/^[\w]+\@vizerfare\.de$/i
+
 /^[\w\.]+\@obis\.pl$/i
 /^[\w]+\@accrowell\.com$/i
 /^[\w]+\@infcs\.pl$/i
