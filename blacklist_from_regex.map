@@ -24,6 +24,7 @@
 #jebani hitlerowcy
 /^[\w]+\@vizerfare\.de$/i
 
+/^[\w]+\@novestin\.beauty$/i
 /^[\w\.]+\@obis\.pl$/i
 /^[\w]+\@accrowell\.com$/i
 /^[\w]+\@infcs\.pl$/i
