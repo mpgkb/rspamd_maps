@@ -24,6 +24,7 @@
 #jebani hitlerowcy
 /^[\w]+\@vizerfare\.de$/i
 
+/^[\w\.]+\@tmsys.pl$/i
 /^[\w\.]+\@fair\.warsawexpo\.eu$/i
 /^[\w\.]+\@pie\.pl$/i
 /^[\w\.]+\@savemax\.ca$/i
