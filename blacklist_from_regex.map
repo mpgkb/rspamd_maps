@@ -24,6 +24,7 @@
 #jebani hitlerowcy
 /^[\w]+\@vizerfare\.de$/i
 
+/^[\w\.]+\@savemax\.ca$/i
 /^[\w\.]+\@equivize\.pl$/i
 /^[\w]+\@123oferty\.pl$/i
 /^[\w]+\@wowmedia\.pl$/i
