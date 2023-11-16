@@ -24,6 +24,7 @@
 #jebani hitlerowcy
 /^[\w]+\@vizerfare\.de$/i
 
+/^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
 /^[\w\.]+\@ceb\.edu\.pl$/i
 /^[\w\.]+\@aka\-edu\.pl$/i
