@@ -24,6 +24,11 @@
 #jebani hitlerowcy
 /^[\w]+\@vizerfare\.de$/i
 
+#skurwysyny aib
+/^[\w]+aib\@dpoczta\.pl$/i
+/^[\w\-\.]+\@(?:training|centrum|akademia|grupa)(\-aib|aib)\.(com\.)*pl$/i
+/^[\w\-\.]+\@(aib|aib\-)*(training|courses|traingandcourses|online|grupa|edukacja|group)\.pl$/i
+
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
 /^[\w\.]+\@ceb\.edu\.pl$/i
@@ -191,8 +196,6 @@
 /^[\w\-\.]+\@[\w\.]*mailing\.salelifter\.com$/i
 /^[\w\-\.]+\@[\w\.]*mail\-source\.pl$/i
 /^[\w\=\-\.]+\@[\w\.]*(?:znakomita|specjalna|niecodzienna)\-oferta\.pl$/iu
-/^[\w\-\.]+\@(?:training|centrum|akademia|grupa)(\-aib|aib)\.(com\.)*pl$/i
-/^[\w\-\.]+\@(aib|aib\-)*(training|courses|traingandcourses|online|grupa|edukacja|group)\.pl$/i
 /^[\w\-\.]+\@(infos|konsult)\.edu\.pl$/i
 /^[\w\-\.]+\@[\d]edu(?:\.|\-)(?:info|mail|szkolenia)\.pl$/iu
 /^[\w]+@yellows\-pager\.fr$/i
