@@ -33,6 +33,9 @@
 /^[\w\.]+\@bdo\.net\.pl$/i
 /^[\w\.]+\@bdoacademy\.pl$/i
 
+#jebani instytuciaze
+/^[\w\.]+\@(?:polski\-|fig)instytut\.pl$/i
+
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
 /^[\w\.]+\@ceb\.edu\.pl$/i
@@ -46,7 +49,6 @@
 /^[\w]+\@123oferty\.pl$/i
 /^[\w]+\@wowmedia\.pl$/i
 /^[\w\.]+\@4edugliwice\.com\.pl$/i
-/^[\w\.]+\@figinstytut\.pl$/i
 /^[\w\.]+\@hdx[\d]+\.celeo\.net$/i
 /^[\w\.]+\@reismin\.com$/i
 /^[\w]+\@novestin\.beauty$/i
