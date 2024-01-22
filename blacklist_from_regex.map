@@ -22,7 +22,7 @@
 /^[\w\=\-]+\@([\w]\.)*message\.mohito\.com$/i
 
 #jebani hitlerowcy
-/^[\w]+\@vizerfare\.de$/i
+/^[\w]+\@(?:nickolates|vizerfare)\.de$/i
 
 #skurwysyny aib
 /^[\w]+aib\@dpoczta\.pl$/i
