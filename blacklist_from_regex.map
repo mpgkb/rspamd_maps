@@ -40,6 +40,9 @@
 /^sare[\w\-\.\=]+\@z\.news\-sp\.pl$/i
 /^[\w\=\-\.]+\@[\w]\.mailsare\.com$/i
 
+#pierdolony edukator
+/^[\w]+\@edukatorspzoo\.com\.pl$/i
+
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
 /^[\w\.]+\@ceb\.edu\.pl$/i
