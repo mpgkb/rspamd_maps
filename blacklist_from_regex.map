@@ -34,7 +34,7 @@
 /^[\w\.]+\@bdoacademy\.pl$/i
 
 #jebani instytuciaze
-/^[\w\.]+\@(?:polski\-|fig)instytut\.pl$/i
+/^[\w\.]+\@(?:polski\-|fig|narodowy\-)instytut\.pl$/i
 
 #jakieś chuje sare
 /^sare[\w\-\.\=]+\@z\.news\-sp\.pl$/i
