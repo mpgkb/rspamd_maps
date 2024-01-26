@@ -52,6 +52,9 @@
 #brudne pały z nazwa.pl
 /^(?:grupa|kadry|refkadr|organizacyjny|kadrowy|sekretarka|kadrowa|sekretariat)[\d]*\@server[\d]+\.nazwa\.pl$/i
 
+#pisiory
+/^[\w]+\@kadry\-ksiegowosc\.pl$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
