@@ -49,6 +49,9 @@
 #kurwa
 /^[\w\.]+\@innovatebiz\.pl$/i
 
+#brudne pały z nazwa.pl
+/^(?:grupa|kadry|refkadr|organizacyjny|kadrowy|sekretarka|kadrowa|sekretariat)[\d]*\@server[\d]+\.nazwa\.pl$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
@@ -224,7 +227,6 @@
 /^[\w\=\-\.]+\@(?:emlgrid|smgrid|emsgrid)\.(?:pl|com)$/i
 /^[\w\=\-\.]+\@[\w]+\.freshmail\.(?:direct|mx)$/iu
 #/^[\w\=\-\.]+\@eu[\w\-]+\.amazonses\.com$/iu
-/^(?:grupa|kadry|refkadr|organizacyjny|kadrowy|sekretarka|kadrowa)[\d]*\@server[\d]+\.nazwa\.pl$/i
 /^[\w\-\.]+\@[\w\-]*seneka[\w\-]*\.pl$/iu
 #/^[\w\-\.]+\@senekaszkolenia\.pl$/iu
 /^[\w\=\-\.]+\@parkcity\.free\.hr$/iu
