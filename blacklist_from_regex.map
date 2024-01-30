@@ -55,6 +55,9 @@
 #pisiory
 /^[\w]+\@kadry\-ksiegowosc\.pl$/i
 
+#kacapy z cccp
+/^[\w]+\@[\w\.]+\.su$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
