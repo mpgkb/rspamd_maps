@@ -62,6 +62,9 @@
 #mendy coface
 /^[\w\-]+\@(?:coface\-)finanse\.(?:com\.pl|pl)/i
 
+#alkoholicy
+/^[\w]+\@lorbeer\-info\.eu$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
