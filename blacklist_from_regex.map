@@ -65,6 +65,9 @@
 #alkoholicy
 /^[\w]+\@lorbeer\-info\.eu$/i
 
+#mendy
+/^[\w]+\@(?:power|tg)(?:promo|promo24)\.pl$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
@@ -195,7 +198,6 @@
 /^[\w\.]+\@multiexpo\.pl$/i
 /^[\w]+\@[\w]+[\d]+\.energysaver\.solutions$/i
 /^[\w]+\@afficenter\.pl$/i
-/^[\w]+\@powerpromo\.pl$/i
 /^[\w\.]+\@irpbb\.bielsko\.pl$/i
 /^[\w\.]+\@info\.topdelivery\.net\.pl$/i
 /^[\w\.]+\@e\-bmp\.pl$/i
