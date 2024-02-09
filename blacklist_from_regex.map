@@ -68,6 +68,9 @@
 #mendy
 /^[\w]+\@(?:power|tg)(?:promo|promo24)\.pl$/i
 
+#wsioki
+/^[\w]+\@activecapital\.pl$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
