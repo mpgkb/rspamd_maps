@@ -51,7 +51,7 @@
 /^[\w\.]+\@innovatebiz\.pl$/i
 
 #brudne pały z nazwa.pl
-/^(?:grupa|kadry|refkadr|organizacyjny|kadrowy|sekretarka|kadrowa|sekretariat|wkadr)[\d]*\@server[\d]+\.nazwa\.pl$/i
+/^(?:grupa|kadry|refkadr|organizacyjny|kadrowy|sekretarka|kadrowa|sekretariat|wkadr|wydzkadr)[\d]*\@server[\d]+\.nazwa\.pl$/i
 
 #pisiory
 /^[\w]+\@kadry\-ksiegowosc\.pl$/i
