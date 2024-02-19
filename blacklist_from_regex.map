@@ -80,6 +80,9 @@
 #samorzadowe skurwysyny
 /^[\w\.]+\@(?:blizej|aktywny)(?:samorzadu|samorzad)\.(?:pl|org)$/i
 
+#chuje modus
+/^[\w]+\@moduscw\.pl$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
