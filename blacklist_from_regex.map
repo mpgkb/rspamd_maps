@@ -77,6 +77,9 @@
 #pizdy jst
 /^[\w\.]+\@(?:jst|doradca)(?:jst|edu)\.pl$/i
 
+#samorzadowe skurwysyny
+/^[\w\.]+\@(?:blizej|aktywny)(?:samorzadu|samorzad)\.(?:pl|org)$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
