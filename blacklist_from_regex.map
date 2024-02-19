@@ -194,7 +194,6 @@
 /^[\w\-\.]+\@maaglab\.pl$/i
 /^[\w\-\.]+\@wydawnictwomartel\.pl$/i
 /^[\w]+\@avkakademia\.pl$/i
-/^[\w]+\@jstedu\.pl$/i
 /^[\w]+\@edu\-tax\.com\.pl$/i
 /^[\w\=\-\.]+\@crm\-biddetail\.com$/i
 /^szkoleniabjb\@gmail\.com$/i
