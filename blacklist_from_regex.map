@@ -74,6 +74,9 @@
 #jakis chuj pierdolony
 /^[\w\.]+\@marketingowestrategie\.zagan\.pl$/i
 
+#pizdy jst
+/^[\w\.]+\@(?:jst|doradca)(?:jst|edu)\.pl$/i
+
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
