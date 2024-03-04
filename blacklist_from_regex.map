@@ -83,6 +83,8 @@
 #chuje modus
 /^[\w]+\@moduscw\.pl$/i
 
+/^[\w]+\@tagroup\.on\.gp$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
