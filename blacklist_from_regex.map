@@ -85,6 +85,9 @@
 
 /^[\w]+\@tagroup\.on\.gp$/i
 
+#cioty zarzygane
+/^[\w]+\@akk\.com\.pl$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
