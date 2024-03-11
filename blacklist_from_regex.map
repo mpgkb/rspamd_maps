@@ -88,6 +88,9 @@
 #cioty zarzygane
 /^[\w]+\@akk\.com\.pl$/i
 
+#za robotę by się wzieli skurwysyny
+/^[\w\.]+\@tradealliance\.pl$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
