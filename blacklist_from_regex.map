@@ -91,6 +91,9 @@
 #za robotę by się wzieli skurwysyny
 /^[\w\.]+\@tradealliance\.pl$/i
 
+#pedały
+/^[\w\.]+\@mailing\.szkoleniagt\.pl$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
