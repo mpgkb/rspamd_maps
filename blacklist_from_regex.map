@@ -253,8 +253,7 @@
 /^[\w]+\@sem-dlab2b\.pl$/i
 /^[\w\.]+\@owal[\w]*\.edu\.pl$/i
 /^[\w\.]+\@[\w\.]*emaillabs\.net\.pl$/i
-#/^[\w\-]+\@[\w\.]*news\.wip\.pl$/i
-#/^[\w\-]+\@[\w\.]*elamed-news\.pl$/i
+
 /^[\w\-\.]+\@[\w\.]*mailing\.salelifter\.com$/i
 /^[\w\-\.]+\@[\w\.]*mail\-source\.pl$/i
 /^[\w\=\-\.]+\@[\w\.]*(?:znakomita|specjalna|niecodzienna)\-oferta\.pl$/iu
@@ -267,16 +266,11 @@
 /^[\w\=\-\.]+\@z\.wydaw\.pl$/iu
 /^[\w\=\-\.]+\@(?:emlgrid|smgrid|emsgrid)\.(?:pl|com)$/i
 /^[\w\=\-\.]+\@[\w]+\.freshmail\.(?:direct|mx)$/iu
-#/^[\w\=\-\.]+\@eu[\w\-]+\.amazonses\.com$/iu
+
 /^[\w\-\.]+\@[\w\-]*seneka[\w\-]*\.pl$/iu
-#/^[\w\-\.]+\@senekaszkolenia\.pl$/iu
+
 /^[\w\=\-\.]+\@parkcity\.free\.hr$/iu
-#bounce bez clickmeeting
-#/^bounce([\w\-])*\@(bounce)*.((?!clickmeeting).)*\.(com|pl)$/i
-#/^[\w\=\-\.]+\@bounce\.[\w\-\.]+(?<!clickmeeting)\.(?:com|pl)$/iu
-#/^([\w\=\-\.]+\@bounce\.){1}([\w\-\.]+)*([^clickmeeting])\.(com|pl)$/i
-#/^[\w\=\-\.]+\@bounce\.([\w\-\.]+)*\.(com|pl)$/i
-#/^bounce([\w\-\.\=])*\@(bounce)*[\w\.\-]+\.(com|pl)$/i
+
 #optimal smart
 /^[\w]+\@optimal\-smart\.pl$/iu
 #service expert
