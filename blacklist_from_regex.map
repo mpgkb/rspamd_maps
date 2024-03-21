@@ -97,6 +97,9 @@
 # zdupcaj
 /^[\w]+\@szkolenia\-forum\.pl$/i
 
+# seo sreo
+/^[\w]+\@seo[\d]{4}\.pl$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
