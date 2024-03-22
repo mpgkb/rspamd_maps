@@ -100,6 +100,9 @@
 # seo sreo
 /^[\w]+\@seo[\d]{4}\.pl$/i
 
+# cioty zarzygane
+/^[\w\-]+\@bounce\.getresponse\-mail\.com$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
