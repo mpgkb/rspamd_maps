@@ -103,6 +103,9 @@
 # cioty zarzygane
 /^[\w\-]+\@bounce\.getresponse\-mail\.com$/i
 
+# kutasy
+/^[\w]+\@maxzakr\.pl$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
