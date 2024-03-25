@@ -1,6 +1,9 @@
 # ***** *
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#szajs
+/^[\w\=\-]+\@sparkpost\.bounce\.edrone\.me$/i
+
 #gówniana strona
 /^[\w]+\@kcrp\.com\.pl$/i
 
