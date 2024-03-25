@@ -2,7 +2,7 @@
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
 # edukoncept
-/^[\w\-\.]+\@edukoncept\.org$/i
+/^[\w\-\.]+\@edukoncept\.(?:org|com|com\.pl)$/i
 
 # szmaty
 /^[\w\-\.]+\@(finansowanie|transakcje|prosperity|kompleksowe|wsparcie|doradztwo|rozwoj)\-(dluzne|finansowania|consulting|finansowanie|firm|dlafirm|zawodowy)\.(com\.pl|pl)$/i
