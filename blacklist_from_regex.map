@@ -1,6 +1,9 @@
 # ***** *
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#gówniana strona
+/^[\w]+\@kcrp\.com\.pl$/i
+
 # edukoncept
 /^[\w\-\.]+\@edukoncept\.(?:org|com|com\.pl)$/i
 
