@@ -1,9 +1,6 @@
 # ***** *
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
-#
-/^[\w\.]+\@mailing\.nbsklep\.pl$/i
-
 #szajs
 /^[\w\=\-]+\@sparkpost\.bounce\.edrone\.me$/i
 
