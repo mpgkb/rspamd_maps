@@ -35,6 +35,7 @@
 /^[\w]+aib\@dpoczta\.pl$/i
 /^[\w\-\.]+\@(?:training|centrum|akademia|grupa)(\-aib|aib)\.(com\.)*pl$/i
 /^[\w\-\.]+\@(aib|aib\-)*(training|courses|traingandcourses|online|grupa|edukacja|group|akademia|web)\.pl$/i
+/^[\w]+\@aibcom\.pl$/i
 
 #ciule bdo
 /^[\w\.]+\@bdo\.net\.pl$/i
