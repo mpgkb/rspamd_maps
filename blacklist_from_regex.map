@@ -17,7 +17,7 @@
 /^[\w\-\.]+\@(finansowanie|transakcje|prosperity|kompleksowe|wsparcie|doradztwo|rozwoj)\-(dluzne|finansowania|consulting|finansowanie|firm|dlafirm|zawodowy)\.(com\.pl|pl)$/i
 /^[\w\-\.]+\@(malinowska|strefa|szkola)\-(doradztwo|prawa)\.(com\.pl|pl)$/i
 /^[\w\-]+\@centrumfinansowania\-firm\.pl$/i
-/^[\w]+\@systemszkolenia\.pl$/i
+/^[\w\.]+\@systemszkolenia\.pl$/i
 
 # nich spierdalają
 /^[\w\-]+\@plfirmy\.pl$/i
