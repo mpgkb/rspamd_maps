@@ -1,6 +1,9 @@
 # ***** *
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#pojeby
+/^[\w]+\@faktoringflex\.pl$/i
+
 #szajs
 /^[\w\=\-]+\@sparkpost\.bounce\.edrone\.me$/i
 
