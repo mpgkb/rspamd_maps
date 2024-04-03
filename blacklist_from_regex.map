@@ -1,6 +1,9 @@
 # ***** *
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#chuj im na grób
+/^[\w]+|@ypclistmanager\.com$/i
+
 #pojeby
 /^[\w]+\@faktoringflex\.pl$/i
 
