@@ -119,6 +119,8 @@
 # kutasy
 /^[\w]+\@maxzakr\.pl$/i
 
+/^[\w]+\@exelence\.online\.cr$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
