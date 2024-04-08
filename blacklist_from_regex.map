@@ -119,6 +119,9 @@
 # kutasy
 /^[\w]+\@maxzakr\.pl$/i
 
+#4edu
+/^[\w\.]+\@(?:4edugliwice|4edu)\.(?:com|net)\.pl$/i
+
 /^[\w]+\@exelence\.online\.cr$/i
 
 /^[\w\.]+\@echoflow\.pl$/i
@@ -135,7 +138,6 @@
 /^[\w\.]+\@equivize\.pl$/i
 /^[\w]+\@123oferty\.pl$/i
 /^[\w]+\@wowmedia\.pl$/i
-/^[\w\.]+\@4edugliwice\.com\.pl$/i
 /^[\w\.]+\@hdx[\d]+\.celeo\.net$/i
 /^[\w\.]+\@reismin\.com$/i
 /^[\w]+\@novestin\.beauty$/i
