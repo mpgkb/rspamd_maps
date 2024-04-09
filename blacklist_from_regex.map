@@ -124,6 +124,9 @@
 
 /^[\w]+\@exelence\.online\.cr$/i
 
+#gówno
+/^[\w\=\-]+\@[\w]+\.ksoin\.pl$/i
+
 /^[\w\.]+\@echoflow\.pl$/i
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
