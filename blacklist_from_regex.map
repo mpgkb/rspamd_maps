@@ -1,6 +1,9 @@
 # ***** *
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#spierdalaj
+/^[\w\.]+\@doradcataryfowy\.pl$/i
+
 #phishing
 /^[\w]+\@fixedemail\.xyz$/i
 
