@@ -1,5 +1,8 @@
-# ***** *
+# ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
+
+# menda
+/^[\w\.]+@proserveonline\.pl$/i
 
 #spierdalaj
 /^[\w\.]+\@doradcataryfowy\.pl$/i
