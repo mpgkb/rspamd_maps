@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# debile
+/^[\w]+\@[\w\.]+wixemails\.com$/i
+
 #
 /^[\w]+\@pfrn\.pl$/i
 
