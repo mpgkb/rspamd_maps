@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#
+/^[\w]+\@pfrn\.pl$/i
+
 # menda
 /^[\w\.]+@proserveonline\.pl$/i
 
