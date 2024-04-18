@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#taxus sraxus
+/^(?:szkoleniataxus|centrumszkolen)\@taxus\.edu\.pl$/i
+
 # ruskie kacapy
 /^[\w]+@willsters\.nom\.es$/i
 
