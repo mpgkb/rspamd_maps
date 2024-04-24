@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+#
+/^[\w\.]+\@mailing\.nbsklep\.pl$/i
+
 # nawet sobie strony chuje nie zrobili
 /^[\w]+\@kancelarialawniczak\.eu$/i
 
