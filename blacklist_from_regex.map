@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# wyperdalaj
+/^[\w]+\@tusale\.gives$/i
+
 #
 /^[\w\.]+\@mailing\.nbsklep\.pl$/i
 
