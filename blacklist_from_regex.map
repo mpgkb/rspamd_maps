@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# pies was jebał
+/^[\w\.]+@mailing\.goldentraining\.pl$/i
+
 # kurwy
 /^[\w]+@hostelsmaz\.mom$/i
 
