@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# ciule
+/^[\w\-]+@bounce\.gr\-mail[\d]\.com$/i
+
 # pies was jebał
 /^[\w\.]+@mailing\.goldentraining\.pl$/i
 
