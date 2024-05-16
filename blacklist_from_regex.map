@@ -125,6 +125,7 @@
 
 #pizdy jst
 /^[\w\.]+\@(?:jst|doradca)(?:jst|edu)\.pl$/i
+/^[\w\.]+\@(?:jst)(?:szkolenia)\.(?:waw)\.pl$/i
 
 #samorzadowe skurwysyny
 /^[\w\.]+\@(?:blizej|aktywny)(?:samorzadu|samorzad)\.(?:pl|org)$/i
