@@ -2,7 +2,7 @@
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
 # chuja se zaprojektujcie
-/^[\w]+\@(?:projektujemy)\-(?:stronki)\.pl$/i
+/^[\w]+\@(?:projektujemy|modernizacja)\-(?:stronki|witryn)\.pl$/i
 
 # wypierdalaj
 /^[\w]+\@dirrectormaill\.xyz$/i
