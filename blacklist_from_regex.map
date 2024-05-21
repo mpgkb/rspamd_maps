@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# wypierdalaj
+/^[\w]+\@dirrectormaill\.xyz$/i
+
 # strone se zrobcie pedały
 /^[\w\.]+\@biznurture\.pl$/i
 
