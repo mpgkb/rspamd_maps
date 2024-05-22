@@ -140,7 +140,7 @@
 /^[\w\.]+\@(?:blizej|aktywny)(?:samorzadu|samorzad)\.(?:pl|org)$/i
 
 #chuje modus
-/^[\w]+\@moduscw\.pl$/i
+/^[\w]+\@modus(?:szkolenia|cw)\.pl$/i
 
 /^[\w]+\@tagroup\.on\.gp$/i
 
