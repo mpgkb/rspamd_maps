@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# zdupcaj kurwo
+/^[\w\.]+\@neoszko\.pl$/i
+
 # chuja se zaprojektujcie
 /^[\w]+\@(?:projektujemy|modernizacja)\-(?:stronki|witryn)\.pl$/i
 
