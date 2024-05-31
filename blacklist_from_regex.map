@@ -1,6 +1,9 @@
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
+# mendy
+/^[\w\.]+\@amiblu\.com$/i
+
 # zdupcaj kurwo
 /^[\w\.]+\@neoszko\.pl$/i
 
