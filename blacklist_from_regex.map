@@ -280,7 +280,10 @@
 /^[\w]+\@pltravel\.pl$/i
 /^[\w\.]+\@usagered\.pl$/i
 /^[\w\.]+\@rubyinfo\.pl$/i
-/^[\w]+\@ekorum\.com\.pl$/i
+
+#eko pojeby
+/^[\w]+\@eko(?:logus|rum)\.com\.pl$/i
+
 /^[\w\.]+\@[\w]\.invisio\.pl$/i
 /^[\w\.]+\@doradzamfin\.pl$/i
 /^[\w\.]+\@euro\-con\.pl$/i
