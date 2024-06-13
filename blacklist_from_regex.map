@@ -222,7 +222,8 @@
 /^[\w\.]+\@szkoleniawec\.eu$/i
 /^[\w\-\.]+\@nu\.onedyn\.pl$/i
 /^[\w\-\.]+\@unima2000\.pl$/i
-/^[\w\-]+\@pozyczkaobrotowa\.pl$/i
+# nie zesraj się
+/^[\w\-]+\@pozyczka(?:obrotowa|nabiznes)\.pl$/i
 /^[\w]+\@administrator24\.info$/i
 /^[\w]+\@pozycjatop1\.pl$/i
 /^[\w]+\@eu\-serwis\.pl$/i
