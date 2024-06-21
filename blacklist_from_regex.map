@@ -1,3 +1,6 @@
+# ssaj bosakowi
+/^[\w\.]+@venturemakers\.pl$/i
+
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
