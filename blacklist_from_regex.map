@@ -2,7 +2,7 @@
 /^[\w\.]+@venturemakers\.pl$/i
 
 # spadaj pizdo
-/^[\w\.]+@universalway\.pl$/i
+/^[\w\.]+\@(?:universalway|commercecore)\.pl$/i
 
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
