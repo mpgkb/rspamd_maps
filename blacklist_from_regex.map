@@ -1,6 +1,9 @@
 # ssaj bosakowi
 /^[\w\.]+@venturemakers\.pl$/i
 
+# spadaj pizdo
+/^[\w\.]+@universalway\.pl$/i
+
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
 
