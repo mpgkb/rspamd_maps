@@ -1,3 +1,6 @@
+# kozojebcy
+/^[\w\.]+@mail[\d]+\-userengage\.com$/i
+
 # ssaj bosakowi
 /^[\w\.]+@venturemakers\.pl$/i
 /^[\w]+@ypclistmanager\.com$/i
