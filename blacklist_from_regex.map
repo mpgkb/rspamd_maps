@@ -1,7 +1,8 @@
-# ssaj bosakowi
+# ssij bosakowi
 /^[\w\.]+@venturemakers\.pl$/i
 /^[\w]+@ypclistmanager\.com$/i
 /^dendros@post\.pl$/i
+/^[\w]+\@eurosoc\.eu$/i
 
 # spadaj pizdo
 /^[\w\.]+\@(?:universalway|commercecore)\.pl$/i
