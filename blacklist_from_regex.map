@@ -6,6 +6,7 @@
 
 # spadaj pizdo
 /^[\w\.]+\@(?:universalway|commercecore)\.pl$/i
+/^[\w\.]+\@reklamaonline\.zagan\.pl$/i
 
 # ***** ***
 /^[\w\-\.]+\@ses\.strefa\-prawa\.pl$/i
