@@ -7,6 +7,7 @@
 /^[\w]+@ypclistmanager\.com$/i
 /^dendros@post\.pl$/i
 /^[\w]+\@eurosoc\.eu$/i
+/^[\w\.]+@(?:szkolenia|szkolenie)(\-)*(?:kadr|kadrowe)\.pl$/i
 
 # spadaj pizdo
 /^[\w\.]+\@(?:universalway|commercecore)\.pl$/i
