@@ -1,6 +1,7 @@
 #kurwiu niemyty
 /^[\w]+\@adwebtrck\.pl$/i
 /^[\w\.]+\@taskera\.pl$/i
+/^[\w\.]+@dlaenergetyki\.pl$/i
 
 # ssij bosakowi
 /^[\w\.]+@venturemakers\.pl$/i
