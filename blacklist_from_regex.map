@@ -2,6 +2,7 @@
 /^[\w]+\@adwebtrck\.pl$/i
 /^[\w\.]+\@taskera\.pl$/i
 /^[\w\.]+@dlaenergetyki\.pl$/i
+/^[\w\.]+\@(?:szkolenia|akademia)wec\.(?:eu|pl)$/i
 
 # ssij bosakowi
 /^[\w\.]+@venturemakers\.pl$/i
@@ -236,7 +237,6 @@
 /^[\w]+\@industrialcompany\.pl$/i
 /^[\w]+\@boolkins\.be$/i
 /^[\w\-]+\@krainaofert\.pl$/i
-/^[\w\.]+\@szkoleniawec\.eu$/i
 /^[\w\-\.]+\@nu\.onedyn\.pl$/i
 /^[\w\-\.]+\@unima2000\.pl$/i
 # nie zesraj się
