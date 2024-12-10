@@ -151,7 +151,7 @@
 /^[\w]+\@activecapital\.pl$/i
 
 #jakis chuj pierdolony
-/^[\w\.]+\@marketingowestrategie\.zagan\.pl$/i
+/^[\w\.]+\@(?:marketingowestrategie|reklamowainnowacja)\.zagan\.pl$/i
 
 #pizdy jst
 /^[\w\.]+\@(?:jst|doradca)(?:jst|edu)\.pl$/i
