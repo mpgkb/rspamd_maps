@@ -390,7 +390,7 @@
 #plusinfo
 /^[\w\=\-\.]+\@[\w\.]*plusinfo\.pl$/iu
 #euro training
-/^[\w\=\-\.]+\@euro\-training\.(info|pl)$/i
+/^[\w\=\-\.]+\@(?:psrp\.)*euro\-training\.(info|pl|edu\.pl)$/i
 #zcmail
 /^[\w\=\-\.]+\@[\w\.]+\.zcmail\.net$/iu
 #ofe
