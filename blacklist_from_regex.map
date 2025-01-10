@@ -204,7 +204,6 @@
 /^[\w]+\@eceszkolenia\.pl$/i
 /^[\w\-]+\@dobradzierzawa\.eu$/i
 /^[\w\-]+\@irip\.edu\.pl$/i
-/^[\w\.]+\@ceb\.edu\.pl$/i
 /^[\w\.]+\@aka\-edu\.pl$/i
 /^[\w\-\=\.]+\@ak\.d\.mailin\.fr$/i
 /^[\w\.]+\@tmsys.pl$/i
