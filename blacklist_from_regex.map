@@ -1,3 +1,6 @@
+#spierdalaj
+/^[\w\.]+\@govaisala\.com$/i
+
 #kurwiu niemyty
 /^[\w]+\@adwebtrck\.pl$/i
 /^[\w\.]+\@taskera\.pl$/i
