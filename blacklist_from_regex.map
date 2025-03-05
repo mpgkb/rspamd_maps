@@ -288,7 +288,7 @@
 /^[\w]+\@mgm\-biznes\.pl$/i
 /^[\w]+\@(szkoleniainwencja|inwencjaszkolenia)\.(pl|eu)$/i
 /^[\w\.]+\@moby\.pl$/i
-/^[\w]+\@usus[\d]*\.edu\.pl$/i
+/^[\w]+@(?:szkolenia)*usus1\.(?:edu\.)*pl$/i
 /^[\w\.]+\@gfw\.pl$/i
 /^[\w\.]+\@4business\-pozycja1\.pl$/i
 /^[\w\.]+\@greatagencyonline\.pl$/i
