@@ -1,6 +1,7 @@
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
 /^[\w]+\@em3820\.e\.read\.ai$/i
+/^[\w]+\@ppcmarketing\.pl$/i
 
 #kurwiu niemyty
 /^[\w]+\@adwebtrck\.pl$/i
