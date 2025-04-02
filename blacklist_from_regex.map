@@ -25,6 +25,7 @@
 
 # mendy
 /^[\w\.]+\@amiblu\.com$/i
+/^[\w]+@(?:abc|forum)okazji24\.pl$/i
 
 # zdupcaj kurwo
 /^[\w\.]+\@neoszko\.pl$/i
