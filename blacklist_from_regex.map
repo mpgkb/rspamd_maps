@@ -1,3 +1,7 @@
+# chuje niemyte
+/^[\w]+@oxystall\.mom$/i
+/^[\w]+@novastare\.my$/i
+
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
 /^[\w]+\@em3820\.e\.read\.ai$/i
