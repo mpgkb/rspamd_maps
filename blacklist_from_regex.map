@@ -1,6 +1,7 @@
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
 /^[\w]+@novastare\.my$/i
+/^[\w]+@marketplanet\.pl$/i
 
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
