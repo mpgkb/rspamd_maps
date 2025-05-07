@@ -2,6 +2,7 @@
 /^[\w]+@oxystall\.mom$/i
 /^[\w]+@novastare\.my$/i
 /^[\w]+@zdrojowka\.pl$/i
+/^[\w\.]+@dynix\.pl$/i
 
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
