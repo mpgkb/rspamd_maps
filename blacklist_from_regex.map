@@ -10,6 +10,7 @@
 /^[\w]+\@ppcmarketing\.pl$/i
 /^[\w]+@okka\.com\.pl$/i
 /^[\w]+@wiedzaplatforma\.pl$/i
+/^[\w]+@francuski\-instytut\.pl$/i
 
 #kurwiu niemyty
 /^[\w]+\@adwebtrck\.pl$/i
