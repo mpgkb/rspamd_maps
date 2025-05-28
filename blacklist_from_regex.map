@@ -18,6 +18,7 @@
 /^[\w\.]+\@taskera\.pl$/i
 /^[\w\.]+@dlaenergetyki\.pl$/i
 /^[\w\.]+\@(?:szkolenia|akademia)wec\.(?:eu|pl)$/i
+/^[\w]+@aioseo\.com$/i
 
 # ssij bosakowi
 /^[\w\.]+@venturemakers\.pl$/i
