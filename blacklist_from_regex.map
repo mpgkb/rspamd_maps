@@ -120,7 +120,7 @@
 /^[\w\=\-]+\@([\w]\.)*message\.mohito\.com$/i
 
 #jebani hitlerowcy
-/^[\w]+\@(?:nickolates|vizerfare|drtionse)\.de$/i
+/^[\w]+\@(?:nickolates|vizerfare|drtionse|kolinsers|vikingex)\.de$/i
 
 #skurwysyny aib
 /^[\w]+aib\@dpoczta\.pl$/i
