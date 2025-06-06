@@ -1,3 +1,8 @@
+#roundcube
+/^irina\.vingriena@gmail\.com$/i
+/^julitaszczepanska38@gmail\.com$/i
+/^[\w\.]+@a\.mpk-krakow\.pl$/i
+
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
 /^[\w]+@novastare\.my$/i
