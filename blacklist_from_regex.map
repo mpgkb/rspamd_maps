@@ -3,6 +3,9 @@
 /^julitaszczepanska38@gmail\.com$/i
 /^[\w\.]+@a\.mpk-krakow\.pl$/i
 
+#cert
+/^b\.begildash\@moynak\.kz$/i
+
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
 /^[\w]+@novastare\.my$/i
