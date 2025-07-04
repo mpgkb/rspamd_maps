@@ -10,6 +10,7 @@
 /^[\w\.\-]+@launchix\.pl$/i
 /^[\w\.\-]+@marketanalysis\.pl$/i
 /^[\w\.\-]+@expandoo\.pl$/i
+/^[\w]+\@oxystall\.mom$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
