@@ -8,6 +8,7 @@
 
 #spamerskie kurwy
 /^[\w\.\-]+@launchix\.pl$/i
+/^[\w\.\-]+@marketanalysis\.pl$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
