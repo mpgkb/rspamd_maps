@@ -12,6 +12,7 @@
 /^[\w\.\-]+@expandoo\.pl$/i
 /^[\w]+\@(?:oxystall|olvansers)\.mom$/i
 /^[\w]+\@novastare\.my$/i
+/^[\w]+\@isolex\.pl$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
