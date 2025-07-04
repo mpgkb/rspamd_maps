@@ -16,6 +16,7 @@
 /^[\w\.]+@growora\.pl$/i
 /^[\w\.]+@taskoro\.pl$/i
 /^[\w\.]+@profitixy\.pl$/i
+/^[\w\.\-]+@appraisalflo\.com$/i
 
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
