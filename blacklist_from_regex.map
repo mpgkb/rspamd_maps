@@ -11,6 +11,7 @@
 /^[\w\.\-]+@marketanalysis\.pl$/i
 /^[\w\.\-]+@expandoo\.pl$/i
 /^[\w]+\@oxystall\.mom$/i
+/^[\w]+\@novastare\.my$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
