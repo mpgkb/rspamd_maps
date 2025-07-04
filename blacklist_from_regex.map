@@ -6,6 +6,9 @@
 #cert
 /^b\.begildash\@moynak\.kz$/i
 
+#spamerskie kurwy
+/^[\w\.\-]+@launchix\.pl$/i
+
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
 /^[\w]+@novastare\.my$/i
