@@ -15,6 +15,7 @@
 /^[\w\.]+@cogny\.pl$/i
 /^[\w\.]+@growora\.pl$/i
 /^[\w\.]+@taskoro\.pl$/i
+/^[\w\.]+@profitixy\.pl$/i
 
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
