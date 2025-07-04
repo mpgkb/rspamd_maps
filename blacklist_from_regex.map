@@ -12,6 +12,7 @@
 /^[\w]+@zdrojowka\.pl$/i
 /^[\w\.]+@dynix\.pl$/i
 /^[\w]+@tanher\.com\.tr$/i
+/^[\w\.]+@cogny\.pl$/i
 
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
