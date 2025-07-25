@@ -13,6 +13,7 @@
 /^[\w]+\@(?:oxystall|olvansers)\.mom$/i
 /^[\w]+\@novastare\.my$/i
 /^[\w]+\@isolex\.pl$/i
+/^[\w\=\.]+@lyreco\.com$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
