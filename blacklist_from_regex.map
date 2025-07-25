@@ -231,7 +231,7 @@
 
 #4edu
 #/^[\w\.]+\@(?:4edugliwice|4edu)\.(?:com|net)\.pl$/i
-/^[\w\.]+\@4edu(?:gliwice|\-gliwice|)(?:\.net\.pl|\.com\.pl|\.pl)$/i
+/^[\w\.]+\@4edu(?:gliwice|\-gliwice|szkolenia)(?:\.net\.pl|\.com\.pl|\.pl)$/i
 
 /^[\w]+\@exelence\.online\.cr$/i
 
