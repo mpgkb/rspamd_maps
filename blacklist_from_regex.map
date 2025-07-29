@@ -50,6 +50,7 @@
 /^dendros@post\.pl$/i
 /^[\w]+\@eurosoc\.eu$/i
 /^[\w\.]+@(?:szkolenia|szkolenie)(\-)*(?:kadr|kadrowe)\.pl$/i
+/^[\w\-]+@bounce\.m\.polskieeplatnosci\.pl$/i
 
 # spadaj pizdo
 /^[\w\.]+\@(?:universalway|commercecore)\.pl$/i
