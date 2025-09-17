@@ -14,6 +14,7 @@
 /^[\w]+\@novastare\.my$/i
 /^[\w]+\@isolex\.pl$/i
 /^[\w\=\.]+@lyreco\.com$/i
+/^[\w\.]+\@gooles\-hotel\.autos$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
