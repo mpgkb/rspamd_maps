@@ -177,7 +177,7 @@
 /^(?:grupa|kadry|refkadr|organizacyjny|kadrowy|sekretarka|kadrowa|sekretariat|wkadr|wydzkadr|depar)[\d]*\@server[\d]+\.nazwa\.pl$/i
 
 #pisiory
-/^[\w]+\@kadry\-ksiegowosc\.pl$/i
+/^[\w\.]+\@kadry\-(?:ksiegowosc|podatki)\.pl$/i
 
 #kacapy z cccp
 /^[\w]+\@[\w\.]+\.su$/i
