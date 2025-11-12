@@ -16,6 +16,7 @@
 /^[\w\=\.]+@lyreco\.com$/i
 /^[\w\.]+\@gooles\-hotel\.autos$/i
 /^[\w]+@strojirnaorikov\.cz$/i
+/^[\w]+@bounces\.info\.trotec\.com$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
