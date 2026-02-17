@@ -379,7 +379,7 @@
 /^[\w]+\@afficenter\.pl$/i
 /^[\w\.]+\@irpbb\.bielsko\.pl$/i
 /^[\w\.]+\@info\.topdelivery\.net\.pl$/i
-/^[\w\.]+\@e\-bmp\.pl$/i
+/^newsletterbmp@e\-bmp\.pl$/i
 /^[\w]+\@(?:administracjapubliczna|przetargipubliczne|finansepubliczne|inwestycjesp|informacjapubliczna|kkwadministracji)\.info$/i
 /^[\w\.]+\@specializable\.pl$/i
 /^[\w]+\@(edukacja|zapisy)(-online|on-line)\.(com\.pl|pl|com)$/i
