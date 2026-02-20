@@ -228,9 +228,6 @@
 # seo sreo
 /^[\w]+\@seo[\d]{4}\.pl$/i
 
-# cioty zarzygane
-/^[\w\-]+\@bounce\.getresponse\-mail\.com$/i
-
 # kutasy
 /^[\w]+\@maxzakr\.pl$/i
 
