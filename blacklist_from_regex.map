@@ -18,6 +18,7 @@
 /^[\w]+@strojirnaorikov\.cz$/i
 /^[\w]+@bounces\.info\.trotec\.com$/i
 /^[\w]+@fort\-hosting\.store$/i
+/^[\w]+\@nt\-hosting\.click$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
