@@ -17,8 +17,7 @@
 /^[\w\.]+\@gooles\-hotel\.autos$/i
 /^[\w]+@strojirnaorikov\.cz$/i
 /^[\w]+@bounces\.info\.trotec\.com$/i
-/^[\w]+@fort\-hosting\.store$/i
-/^[\w]+\@nt\-hosting\.click$/i
+/^[\w]+\@(?:nt|fort)\-hosting\.(?:click|store)$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
