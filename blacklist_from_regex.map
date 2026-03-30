@@ -30,7 +30,7 @@
 /^[\w\.]+@taskoro\.pl$/i
 /^[\w\.]+@profitixy\.pl$/i
 /^[\w\.\-]+@appraisalflo\.com$/i
-/^[\w]+@a1\.effect\.edu\.pl$/i
+/^[\w]+@[\w]{2}\.effect\.edu\.pl$/i
 /^[\w]+@wizartin\.makeup$/i
 
 #spierdalaj
