@@ -19,6 +19,7 @@
 /^[\w]+@bounces\.info\.trotec\.com$/i
 /^[\w]+\@(?:nt|fort)\-hosting\.(?:click|store)$/i
 /^[\w\-]+@mail\.mailing\.fera\.pl$/i
+/^[\w\-]+@intrum\.com$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
