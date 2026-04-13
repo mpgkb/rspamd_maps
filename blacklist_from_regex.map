@@ -34,6 +34,7 @@
 /^[\w\.\-]+@appraisalflo\.com$/i
 /^[\w]+@[\w]{2}\.effect\.edu\.pl$/i
 /^[\w]+@wizartin\.makeup$/i
+/^[\w\.\-]+@epikyklos\.gr$/i
 
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
