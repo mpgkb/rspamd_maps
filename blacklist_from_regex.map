@@ -20,6 +20,7 @@
 /^[\w]+\@(?:nt|fort)\-hosting\.(?:click|store)$/i
 /^[\w\-]+@mail\.mailing\.fera\.pl$/i
 /^[\w\-]+@intrum\.com$/i
+/^[\w]+@ab\.mtasv\.net$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
