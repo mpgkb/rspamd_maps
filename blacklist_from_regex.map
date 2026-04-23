@@ -21,6 +21,7 @@
 /^[\w\-]+@mail\.mailing\.fera\.pl$/i
 /^[\w\-]+@intrum\.com$/i
 /^[\w]+@ab\.mtasv\.net$/i
+/^[\w\-]+@bounce\.wipinfo\.pl$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
