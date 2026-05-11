@@ -22,6 +22,7 @@
 /^[\w\-]+@intrum\.com$/i
 /^[\w]+@ab\.mtasv\.net$/i
 /^[\w\-]+@bounce\.wipinfo\.pl$/i
+/^[\w]+@pukempol\.pl$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
