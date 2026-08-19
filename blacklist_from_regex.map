@@ -24,6 +24,7 @@
 /^[\w\-]+@bounce\.wipinfo\.pl$/i
 /^[\w]+@pukempol\.pl$/i
 /^[\w\-]+@.*getresponse.*\.com$/i
+/^[\w\-\=]+@.*innowacje\-edukacyjne\.pl$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
