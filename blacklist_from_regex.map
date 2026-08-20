@@ -27,6 +27,7 @@
 /^[\w\-\=]+@.*innowacje\-edukacyjne\.pl$/i
 /^[\w]+@auto\-partse\.tech$/i
 /^[\w]+@fincenszkol\.pl$/i
+/^[\w\=\-]+@mail\.csk\.expert$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
