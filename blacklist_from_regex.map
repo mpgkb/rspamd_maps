@@ -25,6 +25,7 @@
 /^[\w]+@pukempol\.pl$/i
 /^[\w\-]+@.*getresponse.*\.com$/i
 /^[\w\-\=]+@.*innowacje\-edukacyjne\.pl$/i
+/^[\w]+@auto\-partse\.tech$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
