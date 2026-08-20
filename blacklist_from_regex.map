@@ -26,6 +26,7 @@
 /^[\w\-]+@.*getresponse.*\.com$/i
 /^[\w\-\=]+@.*innowacje\-edukacyjne\.pl$/i
 /^[\w]+@auto\-partse\.tech$/i
+/^[\w]+@fincenszkol\.pl$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
