@@ -28,6 +28,7 @@
 /^[\w]+@auto\-partse\.tech$/i
 /^[\w]+@fincenszkol\.pl$/i
 /^[\w\=\-]+@mail\.csk\.expert$/i
+/^[\w\=\-\.]+@.*prawne\.com\.pl&/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
