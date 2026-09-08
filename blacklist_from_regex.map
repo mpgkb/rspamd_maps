@@ -1,6 +1,5 @@
 #roundcube
-/^irina\.vingriena@gmail\.com$/i
-/^julitaszczepanska38@gmail\.com$/i
+/^(?:irina\.vingriena|julitaszczepanska38|justynaswietlikwektorwiedzy|workplusua|benmumo313|wmces2|szkoleniabjb)@gmail\.com$/i
 /^[\w\.]+@a\.mpk-krakow\.pl$/i
 
 #cert
@@ -68,7 +67,6 @@
 /^WiP@mailing\.salelifter\.com$/i
 /^edukacja@gfw\.pl$/i
 /^biuro@abiexpert\.info$/i
-/^justynaswietlikwektorwiedzy@gmail\.com$/i
 /^i\.kowalik\.adk@adkszkol\.emailpro\.pl$/i
 /^bounce@e\-finansowanie\-24\.pl$/i
 /^biuro@to\-sie\-oplaca\.pl$/i
@@ -96,7 +94,6 @@
 /^bip@lo\.pl$/i
 /^biuro@ecoreg\.pl$/i
 /^zarzad@rowena\.pl$/i
-/^workplusua@gmail\.com$/i
 /^przetwarzanie@plurimo\.pl$/i
 /^marek\.oksanicz@restquality\.pl$/i
 /^biuro@master\-institute\.pl$/i
@@ -111,10 +108,8 @@
 /^yjdanxp@gold\-serman\.es$/i
 /^swietokrzyskie@innowacje\-edukacyjne\.com\.pl$/i
 /^zpawlak@donativum\.pl$/i
-/^benmumo313@gmail\.com$/i
 /^drewko@firma\.pl$/i
 /^gmcs@ayto\-alcorcon\.es$/i
-/^wmces2@gmail\.com$/i
 /^news@pipesmtp\.pl$/i
 /^patryklukasik@fanpage4like\.pl$/i
 /^barbararos@idodatki\.pl$/i
@@ -455,7 +450,6 @@
 /^[\w]+\@avkakademia\.pl$/i
 /^[\w]+\@edu\-tax\.com\.pl$/i
 /^[\w\=\-\.]+\@crm\-biddetail\.com$/i
-/^szkoleniabjb\@gmail\.com$/i
 /^[\w]+\@beeducation\.pl$/i
 /^[\w\.]+\@prosperity\-solutions\.pl$/i
 /^[\w\.]+\@csk\.expert$/i
