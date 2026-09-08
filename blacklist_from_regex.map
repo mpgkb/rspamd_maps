@@ -30,6 +30,7 @@
 /^[\w\=\-]+@mail\.csk\.expert$/i
 /^[\w\=\-\.]+@.*prawne\.com\.pl&/i
 /^[\w]+@[\w]+\.pryzmat\.com$/i
+/szkolinficen\.pl$/i
 
 # chuje niemyte
 /^[\w]+@oxystall\.mom$/i
