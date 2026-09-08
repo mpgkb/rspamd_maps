@@ -32,8 +32,6 @@
 /szkolinficen\.pl$/i
 
 # chuje niemyte
-/^[\w]+@oxystall\.mom$/i
-/^[\w]+@novastare\.my$/i
 /^[\w]+@zdrojowka\.pl$/i
 /^[\w\.]+@dynix\.pl$/i
 /^[\w]+@tanher\.com\.tr$/i
@@ -61,11 +59,8 @@
 /^kontakt@fg\-market\.com$/i
 /^news@ce2\.pl$/i
 /^osii@eff\.effect\.edu\.pl$/i
-/^serwer@emailserwer\.pl$/i
 /^sodexodlahr@sodexo\.pl$/i
 /^szkolenia@rp\.pl$/i
-/^WiP@mailing\.salelifter\.com$/i
-/^edukacja@gfw\.pl$/i
 /^biuro@abiexpert\.info$/i
 /^i\.kowalik\.adk@adkszkol\.emailpro\.pl$/i
 /^bounce@e\-finansowanie\-24\.pl$/i
@@ -101,10 +96,8 @@
 /^biuro@magan\.info\.pl$/i
 /^biuro@wycena\-gi\.pl$/i
 /^midler@damiko\.pl$/i
-/^administrator@h\.lendoma\.pl$/i
 /^administrator@a\.elasmo\.pl$/i
 /^noreply@wastewaterbiocultures\.com$/i
-/^imyuqdh@intercity\-hostel\.org\.ru$/i
 /^yjdanxp@gold\-serman\.es$/i
 /^swietokrzyskie@innowacje\-edukacyjne\.com\.pl$/i
 /^zpawlak@donativum\.pl$/i
@@ -272,7 +265,7 @@
 /^[\w]+\@[\w\.]+\.su$/i
 
 #mendy coface
-/^[\w\-]+\@(?:coface\-)finanse\.(?:com\.pl|pl)/i
+/^[\w\-]+\@(?:coface\-)finanse\.(?:com\.pl|pl)$/i
 
 #alkoholicy
 /^[\w]+\@lorbeer\-info\.eu$/i
@@ -391,7 +384,7 @@
 /^[\w\=\-]+\@spmailtechno\.com$/i
 /^[\w]+\@maxis\-store\.radio\.am$/i
 /^[\w]+\@mal\-wod\.pl$/i
-/^[\w]+\@projex\.com\.pl$/i
+/^[\w]+\@projex\.(?:com|info)\.pl$/i
 /^[\w\.]+\@heatdeity\.pl$/i
 /^[\w]+\@histolen\.radio\.fm$/i
 /^[\w]+\@[\w]+\.[\w]d0\.pl$/i
@@ -440,7 +433,6 @@
 /^[\w]+\@adkszkolenia\.com\.pl$/i
 /^[\w]+\@noweprzetargi[\d]*\.pl$/i
 /^[\w]+\@wyslij\.co$/i
-/^[\w]+\@projex\.info\.pl$/i
 /^[\w]+\@[\d]+strategie\.pl$/i
 /^[\w\.]+\@cskexpert\.com\.pl$/i
 /^[\w\.]+\@onlinemile\.pl$/i
@@ -491,41 +483,41 @@
 
 /^[\w\-\.]+\@[\w\.]*mailing\.salelifter\.com$/i
 /^[\w\-\.]+\@[\w\.]*mail\-source\.pl$/i
-/^[\w\=\-\.]+\@[\w\.]*(?:znakomita|specjalna|niecodzienna)\-oferta\.pl$/iu
+/^[\w\=\-\.]+\@[\w\.]*(?:znakomita|specjalna|niecodzienna)\-oferta\.pl$/i
 /^[\w\-\.]+\@(infos|konsult)\.edu\.pl$/i
-/^[\w\-\.]+\@[\d]edu(?:\.|\-)(?:info|mail|szkolenia)\.pl$/iu
+/^[\w\-\.]+\@[\d]edu(?:\.|\-)(?:info|mail|szkolenia)\.pl$/i
 /^[\w]+@yellows\-pager\.fr$/i
 /^[\w]+\@tascania\-grill\.li$/i
 /^[\w\=\-\.]+\@kolba\.pl$/i
-/^[\w\=\-\.]+\@news\.send24\.pl$/iu
-/^[\w\=\-\.]+\@z\.wydaw\.pl$/iu
+/^[\w\=\-\.]+\@news\.send24\.pl$/i
+/^[\w\=\-\.]+\@z\.wydaw\.pl$/i
 /^[\w\=\-\.]+\@(?:emlgrid|smgrid|emsgrid)\.(?:pl|com)$/i
-/^[\w\=\-\.]+\@[\w]+\.freshmail\.(?:direct|mx)$/iu
+/^[\w\=\-\.]+\@[\w]+\.freshmail\.(?:direct|mx)$/i
 
-/^[\w\-\.]+\@[\w\-]*seneka[\w\-]*\.pl$/iu
+/^[\w\-\.]+\@[\w\-]*seneka[\w\-]*\.pl$/i
 
-/^[\w\=\-\.]+\@parkcity\.free\.hr$/iu
+/^[\w\=\-\.]+\@parkcity\.free\.hr$/i
 
 #optimal smart
-/^[\w]+\@optimal\-smart\.pl$/iu
+/^[\w]+\@optimal\-smart\.pl$/i
 #service expert
-/^[\w\=\-\.]+\@[\w]+\.service\-expert\.net$/iu
+/^[\w\=\-\.]+\@[\w]+\.service\-expert\.net$/i
 #platforma edukacyjna
 /^[\w\=\-\.]+\@(mailing\.)*platformaedukacyjna\.eu$/i
 #rsgsv
-/^[\w\=\-\.]+\@[\w\.]+\.rsgsv\.net$/iu
+/^[\w\=\-\.]+\@[\w\.]+\.rsgsv\.net$/i
 #plusinfo
-/^[\w\=\-\.]+\@[\w\.]*plusinfo\.pl$/iu
+/^[\w\=\-\.]+\@[\w\.]*plusinfo\.pl$/i
 #euro training
 /^[\w\=\-\.]+\@(?:psrp\.)*euro\-training\.(info|pl|edu\.pl)$/i
 #zcmail
-/^[\w\=\-\.]+\@[\w\.]+\.zcmail\.net$/iu
+/^[\w\=\-\.]+\@[\w\.]+\.zcmail\.net$/i
 #ofe
-/^kontakt\@ofe[\d]+\.pl$/iu
+/^kontakt\@ofe[\d]+\.pl$/i
 #acc
-/^[\w\=\-\.]+\@acc\.net\.pl$/iu
+/^[\w\=\-\.]+\@acc\.net\.pl$/i
 #attmail
-#/^[\w\=\-\.]+(?<!km-tech\.eu=serwis)\@attmail\.pl$/iu
+#/^[\w\=\-\.]+(?<!km-tech\.eu=serwis)\@attmail\.pl$/i
 #biznes finanse
 /^[\w]+\@biznes\-finanse\-24\.pl$/i
 
@@ -535,4 +527,3 @@
 /^[\w\=\-\.]+\@vistall\.hz\.cz$/i
 #cpi
 /^(?:info|konferencja|contactcenter)\@(cpi-)*(cpi|sk|seminaria|szkolenia)(-cpi)*\.(?:waw|info)\.pl$/i
-
