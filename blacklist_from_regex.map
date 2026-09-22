@@ -47,6 +47,7 @@
 /^[\w]+@[\w]{2}\.effect\.edu\.pl$/i
 /^[\w]+@wizartin\.makeup$/i
 /^[\w\.\-]+@epikyklos\.gr$/i
+/@psrp\.szkolenia\-eurotraining\.pl$/i
 
 #nowe
 /^piotr@prem\.pl$/i
