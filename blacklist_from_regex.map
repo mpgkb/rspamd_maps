@@ -112,7 +112,7 @@
 /^patryklukasik@fanpage4like\.pl$/i
 /^barbararos@idodatki\.pl$/i
 /^pion@server122042\.nazwa\.pl$/i
-
+/@placehomex\.com$/i
 
 #spierdalaj
 /^[\w\.]+\@govaisala\.com$/i
