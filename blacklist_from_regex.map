@@ -4,6 +4,7 @@
 
 #New short
 /@[\w]+\.mc\.ihg\.com$/i
+/@bt\-bielsko\.pl$/i
 
 #cert
 /^b\.begildash\@moynak\.kz$/i
