@@ -2,6 +2,9 @@
 /^(?:irina\.vingriena|julitaszczepanska38|justynaswietlikwektorwiedzy|workplusua|benmumo313|wmces2|szkoleniabjb)@gmail\.com$/i
 /^[\w\.]+@a\.mpk-krakow\.pl$/i
 
+#New short
+/@[\w]+\.mc\.ihg\.com$/i
+
 #cert
 /^b\.begildash\@moynak\.kz$/i
 
