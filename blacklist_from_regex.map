@@ -6,6 +6,7 @@
 /@[\w]+\.mc\.ihg\.com$/i
 /@bt\-bielsko\.pl$/i
 /@mdre\.pro$/i
+/@inklowse\.store$/i
 
 #cert
 /^b\.begildash\@moynak\.kz$/i
