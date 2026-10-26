@@ -40,6 +40,7 @@
 /^[\w]+@talentplanet\.pl$/i
 /@oneco\.bitrix24\.pl$/i
 /@ceb\.edu\.pl$/i
+/@[\w]+\.ch$/i
 
 # chuje niemyte
 /^[\w]+@zdrojowka\.pl$/i
