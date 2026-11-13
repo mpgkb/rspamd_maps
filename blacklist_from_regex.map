@@ -441,7 +441,6 @@
 /^[\w\.]+\@euro\-con\.pl$/i
 /^[\w]+\@discounting\.ch$/i
 /^[\w]+\@ai\-nakaz\.eu$/i
-/^[\w\.]+\@crf\.pl$/i
 /^[\w\.]+\@osklublin\.biz\.pl$/i
 /^[\w]+\@adkszkolenia\.com\.pl$/i
 /^[\w]+\@noweprzetargi[\d]*\.pl$/i
